@@ -191,12 +191,12 @@ Import-Package: javax.annotation;version=0.0.0,*
                 AEM 6.x Dependencies 
                 ====================-->
                 <!-- Adobe AEM Dependencies -->
-                <dependency>
-                    <groupId>com.adobe.aem</groupId>
-                    <artifactId>uber-jar</artifactId>
-                    <version>${uber.jar.version}</version>
-                    <scope>provided</scope>
-                </dependency>
+<!--                <dependency>-->
+<!--                    <groupId>com.adobe.aem</groupId>-->
+<!--                    <artifactId>uber-jar</artifactId>-->
+<!--                    <version>1.0.0</version>-->
+<!--                    <scope>provided</scope>-->
+<!--                </dependency>-->
                 <!-- OSGi Dependencies -->
                 <dependency>
                     <groupId>org.osgi</groupId>
